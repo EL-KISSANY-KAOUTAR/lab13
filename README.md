@@ -179,4 +179,4 @@ Le laboratoire démontre comment Frida et Objection peuvent être utilisés pour
 
 ---
 **Application testée :** OWASP MSTG UnCrackable Level 1  
-**Outils utilisés :** Frida 16.5.9, Frida-Tools 13.6.0, Objection 1.11.0, Android Emulator (Android 13)
+**Outils utilisés :** Frida 16.5.9, Frida-Tools 13.6.0, Objection 1.11.0.
